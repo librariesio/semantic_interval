@@ -1,6 +1,8 @@
 # SemanticInterval
 
-Turn Interval range syntax into SemVer range syntax
+Turn interval range syntax into semver range syntax.
+
+Based on [Apache Maven Version Range Specification](http://maven.apache.org/enforcer/enforcer-rules/versionRanges.html) and [NuGet Version Range Specification](https://docs.nuget.org/create/versioning) which are built on the basics of [Mathematical Intervals](https://en.wikipedia.org/wiki/Interval_(mathematics)).
 
 ## Installation
 
